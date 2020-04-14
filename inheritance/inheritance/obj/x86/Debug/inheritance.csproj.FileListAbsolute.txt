@@ -1,0 +1,4 @@
+C:\19.11.2784\inheritance\inheritance\bin\Debug\inheritance.exe
+C:\19.11.2784\inheritance\inheritance\bin\Debug\inheritance.pdb
+C:\19.11.2784\inheritance\inheritance\obj\x86\Debug\inheritance.exe
+C:\19.11.2784\inheritance\inheritance\obj\x86\Debug\inheritance.pdb
